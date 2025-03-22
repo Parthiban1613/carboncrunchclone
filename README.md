@@ -3,6 +3,7 @@
  visually appealing experience with smooth animations, interactive content, and a clean, minimalist design.
 
 Features
+
 i)Sustainable Living Insights:
 
 Displays content and statistics about carbon footprints and their environmental impact.
